@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Advanced Playground.unity
     guid: 9d6cfe8299eae3f4d886710ab1ba7ecf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/First Playground.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level 2.unity
     guid: 762a59f3648b21a46a45805b6ac3725a
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 20a3d731f830dd64f95a18ad38181a41
   m_configObjects: {}
